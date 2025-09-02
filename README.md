@@ -1,6 +1,6 @@
 # Learnify - AI-Powered Study Revolution
 
-A modern, responsive website for Studeezy, an AI-powered study platform that helps students transform their study materials with artificial intelligence.
+A modern, responsive website for Learnify, an AI-powered study platform that helps students transform their study materials with artificial intelligence.
 
 ## 🚀 Features
 
@@ -22,22 +22,22 @@ A modern, responsive website for Studeezy, an AI-powered study platform that hel
 ## 📁 Project Structure
 
 ```
-studeezy/
+Learnify/
 ├── app/
-│   ├── globals.css          # Global styles and Tailwind imports
-│   ├── layout.tsx           # Root layout component
-│   └── page.tsx             # Main page component
+│   ├── globals.css          
+│   ├── layout.tsx          
+│   └── page.tsx             
 ├── components/
-│   ├── Header.tsx           # Navigation header
-│   ├── Hero.tsx             # Hero section with main CTA
-│   ├── Features.tsx         # Features showcase
-│   ├── Testimonials.tsx     # Student testimonials
-│   ├── Pricing.tsx          # Pricing plans
-│   └── Footer.tsx           # Footer with links
-├── package.json             # Dependencies and scripts
-├── tailwind.config.js       # Tailwind configuration
-├── tsconfig.json            # TypeScript configuration
-└── README.md                # Project documentation
+│   ├── Header.tsx         
+│   ├── Hero.tsx             
+│   ├── Features.tsx         
+│   ├── Testimonials.tsx   
+│   ├── Pricing.tsx          
+│   └── Footer.tsx           
+├── package.json             
+├── tailwind.config.js       
+├── tsconfig.json            
+└── README.md                
 ```
 
 ## 🚀 Getting Started
