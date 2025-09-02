@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="bg-gray-900 dark:bg-gray-950 text-white py-16 px-4 sm:px-6 lg:px-8 transition-colors duration-200">
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          {/* Company Info */}
+    
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
               <Sparkles className="w-6 h-6 text-primary-400" />
@@ -17,13 +17,13 @@ export default function Footer() {
               Transform your study experience with AI-powered tools. Upload documents, extract insights, and chat with your study materials like never before.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200">
+              <a href="https://x.com/AyushMathu87653?t=rXP6XcvfcYIttav9jmiZnQ&s=09" className="text-gray-400 hover:text-white transition-colors duration-200">
                 <Twitter className="w-5 h-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200">
+              <a href="https://surli.cc/iadhhn" className="text-gray-400 hover:text-white transition-colors duration-200">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200">
+              <a href="https://github.com/Ayush056github"  className="text-gray-400 hover:text-white transition-colors duration-200">
                 <Github className="w-5 h-5" />
               </a>
             </div>
@@ -67,3 +67,4 @@ export default function Footer() {
     </footer>
   )
 }
+
