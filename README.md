@@ -1,4 +1,4 @@
-# Studeezy - AI-Powered Study Revolution
+# Learnify - AI-Powered Study Revolution
 
 A modern, responsive website for Studeezy, an AI-powered study platform that helps students transform their study materials with artificial intelligence.
 
