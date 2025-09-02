@@ -52,7 +52,7 @@ Learnify/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd studeezy
+   cd Learnify
    ```
 
 2. **Install dependencies**
