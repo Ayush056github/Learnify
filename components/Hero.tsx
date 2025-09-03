@@ -31,7 +31,7 @@ export default function Hero() {
           </a>
           <button className="btn-secondary flex items-center gap-2">
             <Play className="w-5 h-5" />
-            Watch Demo
+            <a href='https://youtu.be/Dmkqf-9ekms'>Watch Demo</a>
           </button>
         </div>
 
