@@ -256,14 +256,14 @@ export default function SignUpForm() {
           </div>
 
           {/* Demo Credentials */}
-          <div className="mt-6 p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+          {/* <div className="mt-6 p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
             <h4 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Demo Credentials:</h4>
             <div className="text-xs text-gray-600 dark:text-gray-400 space-y-1">
               <p><strong>Full Name:</strong> John Doe</p>
               <p><strong>Email:</strong> john@example.com</p>
               <p><strong>Password:</strong> demo123</p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
